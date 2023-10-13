@@ -1,4 +1,13 @@
-### Hi there 👋
+### Welcome! 🦊
+
+This is my tiny profile  
+I don't have too much here at the moment...  
+But I'm learning and uploading my own things little by little  
+
+I'm focused on web technologies and related, so mainly JavaScript, on front-end and back-end  
+But still like to discover any new tool I can use in my proyects  
+
+Not much more to say, so here's my [Linkedin](https://www.linkedin.com/in/mateo-campero-ar/) if anything  
 
 <!--
 **naikath/naikath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
